@@ -1,0 +1,20 @@
+<form action="", method="post" novalidate>
+    {% csrf_token %}
+    <p>{{form_obj.username.label}}:{{form_obj.username}}
+        {{errors.username.0}}
+    </p>
+    <p>{{form_obj.password}}
+        {{errors.password.0}}
+    </p>
+    <p>{{form_obj.status.label}}:{{form_obj.status}}
+        {{errors.status.0}}
+    </p>
+    <p>{{form_obj.age.label}}:{{form_obj.age}}
+        {{errors.age.0}}
+    </p>
+    <p>{{form_obj.moblie.label}}:{{form_obj.moblie}}
+        {{errors.moblie.0}}
+    </p>
+    {{errors}}
+    <input type="submit" value="提交">
+</form>
