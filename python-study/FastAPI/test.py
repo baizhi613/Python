@@ -1,11 +1,14 @@
-# import uvicorn
-# from fastapi import FastAPI
-# app = FastAPI()
-# @app.get("/")
-# async def root():
-#     return {"message": "Hello World"}
-#
-# if __name__ == '__main__':
-#     config = uvicorn.Config(app, host='0.0.0.0', port=8009)
-#     server = uvicorn.Server(config)
-#     await server.serve()
+from fastapi import FastAPI
+import uvicorn
+app=FastAPI()
+
+@app.get("/")
+async def home():
+    return{"user_id":1001}
+
+@app.get("/shop")
+async def shop():
+    return{"shop":"商品信息"}
+
+if __name__=='__main__':
+    uvicorn.run("test:app",port=8080,reload=True)

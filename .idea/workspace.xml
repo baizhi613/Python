@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="129c038f-c257-4b0f-b80d-1968a8811d7f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/python-study/test/ocr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/ocr1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/选择题.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-study/FastAPI/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-study/FastAPI/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-study/test/ImageUnderstanding.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-study/test/ImageUnderstanding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/asserts/assertNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/asserts/assertNode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/asserts/generated/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/asserts/generated/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/ast-types/generated/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/ast-types/generated/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/flow/createFlowUnionType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/flow/createFlowUnionType.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/flow/createTypeAnnotationBasedOnTypeof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/flow/createTypeAnnotationBasedOnTypeof.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/generated/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/generated/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/generated/uppercase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/generated/uppercase.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/productions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/productions.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/react/buildChildren.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/react/buildChildren.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/typescript/createTSUnionType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/typescript/createTSUnionType.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/validateNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/builders/validateNode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/clone.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/cloneDeep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/cloneDeep.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/cloneDeepWithoutLoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/cloneDeepWithoutLoc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/cloneNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/cloneNode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/cloneWithoutLoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/clone/cloneWithoutLoc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/addComment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/addComment.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/addComments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/addComments.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/inheritInnerComments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/inheritInnerComments.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/inheritLeadingComments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/inheritLeadingComments.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/inheritTrailingComments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/inheritTrailingComments.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/inheritsComments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/inheritsComments.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/removeComments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/comments/removeComments.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/constants/generated/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/constants/generated/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/constants/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/constants/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/ensureBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/ensureBlock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/gatherSequenceExpressions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/gatherSequenceExpressions.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toBindingIdentifierName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toBindingIdentifierName.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toBlock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toBlock.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toComputedKey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toComputedKey.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toExpression.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toExpression.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toIdentifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toIdentifier.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toKeyAlias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toKeyAlias.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toSequenceExpression.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toSequenceExpression.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toStatement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/toStatement.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/valueToNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/converters/valueToNode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/core.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/deprecated-aliases.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/deprecated-aliases.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/experimental.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/experimental.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/flow.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/jsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/jsx.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/misc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/misc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/placeholders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/placeholders.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/typescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/typescript.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/definitions/utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/index-legacy.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/appendToMemberExpression.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/appendToMemberExpression.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/flow/removeTypeDuplicates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/flow/removeTypeDuplicates.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/inherits.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/prependToMemberExpression.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/prependToMemberExpression.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/removeProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/removeProperties.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/removePropertiesDeep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/removePropertiesDeep.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/typescript/removeTypeDuplicates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/modifications/typescript/removeTypeDuplicates.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/retrievers/getAssignmentIdentifiers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/retrievers/getAssignmentIdentifiers.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/retrievers/getBindingIdentifiers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/retrievers/getBindingIdentifiers.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/retrievers/getFunctionName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/retrievers/getFunctionName.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/retrievers/getOuterBindingIdentifiers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/retrievers/getOuterBindingIdentifiers.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/traverse/traverse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/traverse/traverse.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/traverse/traverseFast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/traverse/traverseFast.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/utils/deprecationWarning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/utils/deprecationWarning.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/utils/inherit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/utils/inherit.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/utils/react/cleanJSXElementLiteralChild.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/utils/react/cleanJSXElementLiteralChild.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/utils/shallowEqual.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/utils/shallowEqual.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/buildMatchMemberExpression.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/buildMatchMemberExpression.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/generated/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/generated/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/is.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isBinding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isBinding.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isBlockScoped.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isBlockScoped.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isImmutable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isImmutable.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isLet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isLet.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isNode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isNode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isNodesEquivalent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isNodesEquivalent.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isPlaceholderType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isPlaceholderType.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isReferenced.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isReferenced.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isScope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isScope.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isSpecifierDefault.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isSpecifierDefault.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isType.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isValidES3Identifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isValidES3Identifier.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isValidIdentifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isValidIdentifier.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isVar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/isVar.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/matchesPattern.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/matchesPattern.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/react/isCompatTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/react/isCompatTag.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/react/isReactComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/react/isReactComponent.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/lib/validators/validate.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@babel+types@7.25.2/node_modules/@babel/types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@esbuild+win32-x64@0.21.5/node_modules/@esbuild/win32-x64/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@esbuild+win32-x64@0.21.5/node_modules/@esbuild/win32-x64/esbuild.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@esbuild+win32-x64@0.21.5/node_modules/@esbuild/win32-x64/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.umd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/dist/types/scopes.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/dist/types/sourcemap-codec.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/dist/types/strings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/dist/types/vlq.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@jridgewell+sourcemap-codec@1.5.0/node_modules/@jridgewell/sourcemap-codec/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@rollup+rollup-win32-x64-msvc@4.20.0/node_modules/@rollup/rollup-win32-x64-msvc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@rollup+rollup-win32-x64-msvc@4.20.0/node_modules/@rollup/rollup-win32-x64-msvc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@rollup+rollup-win32-x64-msvc@4.20.0/node_modules/@rollup/rollup-win32-x64-msvc/rollup.win32-x64-msvc.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@types+estree@1.0.5/node_modules/@types/estree/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@types+estree@1.0.5/node_modules/@types/estree/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@types+estree@1.0.5/node_modules/@types/estree/flow.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@types+estree@1.0.5/node_modules/@types/estree/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@types+estree@1.0.5/node_modules/@types/estree/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/dist/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/dist/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/dist/index.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/dist/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/dist/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/node_modules/.bin/vite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/node_modules/.bin/vite.CMD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/node_modules/.bin/vite.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vitejs+plugin-vue@5.1.2/node_modules/@vitejs/plugin-vue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/dist/compiler-core.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/dist/compiler-core.cjs.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/dist/compiler-core.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/dist/compiler-core.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/node_modules/.bin/parser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/node_modules/.bin/parser.CMD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/node_modules/.bin/parser.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-core@3.4.38/node_modules/@vue/compiler-core/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/dist/compiler-dom.cjs.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/dist/compiler-dom.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/dist/compiler-dom.esm-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/dist/compiler-dom.esm-browser.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/dist/compiler-dom.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/dist/compiler-dom.global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/dist/compiler-dom.global.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-dom@3.4.38/node_modules/@vue/compiler-dom/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-sfc@3.4.38/node_modules/@vue/compiler-sfc/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-sfc@3.4.38/node_modules/@vue/compiler-sfc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-sfc@3.4.38/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-sfc@3.4.38/node_modules/@vue/compiler-sfc/dist/compiler-sfc.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-sfc@3.4.38/node_modules/@vue/compiler-sfc/dist/compiler-sfc.esm-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-sfc@3.4.38/node_modules/@vue/compiler-sfc/node_modules/.bin/parser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-sfc@3.4.38/node_modules/@vue/compiler-sfc/node_modules/.bin/parser.CMD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-sfc@3.4.38/node_modules/@vue/compiler-sfc/node_modules/.bin/parser.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-sfc@3.4.38/node_modules/@vue/compiler-sfc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-ssr@3.4.38/node_modules/@vue/compiler-ssr/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-ssr@3.4.38/node_modules/@vue/compiler-ssr/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-ssr@3.4.38/node_modules/@vue/compiler-ssr/dist/compiler-ssr.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-ssr@3.4.38/node_modules/@vue/compiler-ssr/dist/compiler-ssr.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+compiler-ssr@3.4.38/node_modules/@vue/compiler-ssr/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/api/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/api/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/api/component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/api/context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/api/hooks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/api/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/const.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/proxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/cjs/time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/api.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/app.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/component.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/context.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/hooks.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/hooks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/util.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/api/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/const.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/const.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/plugin.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/proxy.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/proxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/time.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/lib/esm/time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+devtools-api@6.6.3/node_modules/@vue/devtools-api/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/dist/reactivity.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/dist/reactivity.cjs.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/dist/reactivity.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/dist/reactivity.esm-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/dist/reactivity.esm-browser.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/dist/reactivity.global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/dist/reactivity.global.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+reactivity@3.4.38/node_modules/@vue/reactivity/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-core@3.4.38/node_modules/@vue/runtime-core/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-core@3.4.38/node_modules/@vue/runtime-core/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-core@3.4.38/node_modules/@vue/runtime-core/dist/runtime-core.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-core@3.4.38/node_modules/@vue/runtime-core/dist/runtime-core.cjs.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-core@3.4.38/node_modules/@vue/runtime-core/dist/runtime-core.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-core@3.4.38/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-core@3.4.38/node_modules/@vue/runtime-core/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-core@3.4.38/node_modules/@vue/runtime-core/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/dist/runtime-dom.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/dist/runtime-dom.cjs.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/dist/runtime-dom.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-browser.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/dist/runtime-dom.global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/dist/runtime-dom.global.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+runtime-dom@3.4.38/node_modules/@vue/runtime-dom/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/dist/server-renderer.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/dist/server-renderer.cjs.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/dist/server-renderer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/dist/server-renderer.esm-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/dist/server-renderer.esm-browser.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/dist/server-renderer.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+server-renderer@3.4.38/node_modules/@vue/server-renderer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+shared@3.4.38/node_modules/@vue/shared/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+shared@3.4.38/node_modules/@vue/shared/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+shared@3.4.38/node_modules/@vue/shared/dist/shared.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+shared@3.4.38/node_modules/@vue/shared/dist/shared.cjs.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+shared@3.4.38/node_modules/@vue/shared/dist/shared.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+shared@3.4.38/node_modules/@vue/shared/dist/shared.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+shared@3.4.38/node_modules/@vue/shared/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/@vue+shared@3.4.38/node_modules/@vue/shared/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/bench.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/abort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/defer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/iterate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/readable_asynckit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/readable_parallel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/readable_serial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/readable_serial_ordered.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/streamify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/lib/terminator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/parallel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/serial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/serialOrdered.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/asynckit@0.4.0/node_modules/asynckit/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/MIGRATION_GUIDE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/axios.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/axios.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/axios.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/browser/axios.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/browser/axios.cjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/esm/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/esm/axios.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/esm/axios.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/esm/axios.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/node/axios.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/dist/node/axios.cjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/adapters/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/adapters/adapters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/adapters/fetch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/adapters/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/adapters/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/cancel/CancelToken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/cancel/CanceledError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/cancel/isCancel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/Axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/AxiosError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/AxiosHeaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/InterceptorManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/buildFullPath.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/dispatchRequest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/mergeConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/settle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/core/transformData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/defaults/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/defaults/transitional.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/env/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/env/classes/FormData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/env/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/AxiosTransformStream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/AxiosURLSearchParams.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/HttpStatusCode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/ZlibHeaderTransformStream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/bind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/buildURL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/callbackify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/combineURLs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/composeSignals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/cookies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/deprecatedMethod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/formDataToJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/formDataToStream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/fromDataURI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/isAbsoluteURL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/isAxiosError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/isURLSameOrigin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/null.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/parseHeaders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/parseProtocol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/progressEventReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/readBlob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/resolveConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/speedometer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/spread.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/throttle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/toFormData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/toURLEncodedForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/trackStream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/helpers/validator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/platform/browser/classes/Blob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/platform/browser/classes/FormData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/platform/browser/classes/URLSearchParams.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/platform/browser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/platform/common/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/platform/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/platform/node/classes/FormData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/platform/node/classes/URLSearchParams.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/platform/node/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/axios@1.7.4/node_modules/axios/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/combined-stream@1.0.8/node_modules/combined-stream/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/combined-stream@1.0.8/node_modules/combined-stream/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/combined-stream@1.0.8/node_modules/combined-stream/lib/combined_stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/combined-stream@1.0.8/node_modules/combined-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/combined-stream@1.0.8/node_modules/combined-stream/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/csstype@3.1.3/node_modules/csstype/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/csstype@3.1.3/node_modules/csstype/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/csstype@3.1.3/node_modules/csstype/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/csstype@3.1.3/node_modules/csstype/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/csstype@3.1.3/node_modules/csstype/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/delayed-stream@1.0.0/node_modules/delayed-stream/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/delayed-stream@1.0.0/node_modules/delayed-stream/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/delayed-stream@1.0.0/node_modules/delayed-stream/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/delayed-stream@1.0.0/node_modules/delayed-stream/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/delayed-stream@1.0.0/node_modules/delayed-stream/lib/delayed_stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/delayed-stream@1.0.0/node_modules/delayed-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/decode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/decode.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/decode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/decode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/decode_codepoint.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/decode_codepoint.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/decode_codepoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/decode_codepoint.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/encode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/encode.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/encode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/encode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/escape.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/escape.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/escape.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/decode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/decode.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/decode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/decode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/decode_codepoint.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/decode_codepoint.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/decode_codepoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/decode_codepoint.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/encode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/encode.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/encode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/encode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/escape.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/escape.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/escape.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/decode-data-html.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/decode-data-html.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/decode-data-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/decode-data-html.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/decode-data-xml.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/decode-data-xml.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/decode-data-xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/decode-data-xml.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/encode-html.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/encode-html.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/encode-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/generated/encode-html.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/index.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/esm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/decode-data-html.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/decode-data-html.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/decode-data-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/decode-data-html.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/decode-data-xml.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/decode-data-xml.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/decode-data-xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/decode-data-xml.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/encode-html.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/encode-html.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/encode-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/generated/encode-html.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/index.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/entities@4.5.0/node_modules/entities/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/esbuild@0.21.5/node_modules/esbuild/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/esbuild@0.21.5/node_modules/esbuild/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/esbuild@0.21.5/node_modules/esbuild/bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/esbuild@0.21.5/node_modules/esbuild/install.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/esbuild@0.21.5/node_modules/esbuild/lib/main.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/esbuild@0.21.5/node_modules/esbuild/lib/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/esbuild@0.21.5/node_modules/esbuild/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/dist/esm/estree-walker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/dist/esm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/dist/umd/estree-walker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/src/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/src/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/src/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/src/walker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/types/async.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/types/sync.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/types/tsconfig.tsbuildinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/estree-walker@2.0.2/node_modules/estree-walker/types/walker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/follow-redirects@1.15.6/node_modules/follow-redirects/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/follow-redirects@1.15.6/node_modules/follow-redirects/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/follow-redirects@1.15.6/node_modules/follow-redirects/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/follow-redirects@1.15.6/node_modules/follow-redirects/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/follow-redirects@1.15.6/node_modules/follow-redirects/https.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/follow-redirects@1.15.6/node_modules/follow-redirects/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/follow-redirects@1.15.6/node_modules/follow-redirects/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/form-data@4.0.0/node_modules/form-data/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/form-data@4.0.0/node_modules/form-data/README.md.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/form-data@4.0.0/node_modules/form-data/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/form-data@4.0.0/node_modules/form-data/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/form-data@4.0.0/node_modules/form-data/lib/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/form-data@4.0.0/node_modules/form-data/lib/form_data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/form-data@4.0.0/node_modules/form-data/lib/populate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/form-data@4.0.0/node_modules/form-data/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/dist/magic-string.cjs.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/dist/magic-string.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/dist/magic-string.cjs.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/dist/magic-string.es.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/dist/magic-string.es.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/dist/magic-string.es.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/dist/magic-string.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/dist/magic-string.umd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/magic-string@0.30.11/node_modules/magic-string/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-db@1.52.0/node_modules/mime-db/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-db@1.52.0/node_modules/mime-db/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-db@1.52.0/node_modules/mime-db/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-db@1.52.0/node_modules/mime-db/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-db@1.52.0/node_modules/mime-db/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-db@1.52.0/node_modules/mime-db/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-types@2.1.35/node_modules/mime-types/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-types@2.1.35/node_modules/mime-types/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-types@2.1.35/node_modules/mime-types/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-types@2.1.35/node_modules/mime-types/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/mime-types@2.1.35/node_modules/mime-types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/async/index.browser.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/async/index.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/async/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/async/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/async/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/async/index.native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/async/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/bin/nanoid.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/index.browser.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/index.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/nanoid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/non-secure/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/non-secure/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/non-secure/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/non-secure/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/url-alphabet/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/url-alphabet/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/nanoid@3.3.7/node_modules/nanoid/url-alphabet/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/picocolors@1.0.1/node_modules/picocolors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/picocolors@1.0.1/node_modules/picocolors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/picocolors@1.0.1/node_modules/picocolors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/picocolors@1.0.1/node_modules/picocolors/picocolors.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/picocolors@1.0.1/node_modules/picocolors/picocolors.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/picocolors@1.0.1/node_modules/picocolors/picocolors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/picocolors@1.0.1/node_modules/picocolors/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/at-rule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/at-rule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/comment.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/container.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/css-syntax-error.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/css-syntax-error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/declaration.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/declaration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/document.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/fromJSON.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/fromJSON.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/input.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/lazy-result.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/lazy-result.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/list.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/no-work-result.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/no-work-result.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/node.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/parse.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/postcss.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/postcss.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/postcss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/postcss.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/previous-map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/previous-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/processor.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/result.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/result.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/root.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/rule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/rule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/stringifier.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/stringifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/stringify.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/symbols.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/terminal-highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/tokenize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/warn-once.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/warning.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/lib/warning.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/node_modules/.bin/nanoid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/node_modules/.bin/nanoid.CMD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/node_modules/.bin/nanoid.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/postcss@8.4.41/node_modules/postcss/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/proxy-from-env@1.1.0/node_modules/proxy-from-env/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/proxy-from-env@1.1.0/node_modules/proxy-from-env/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/proxy-from-env@1.1.0/node_modules/proxy-from-env/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/proxy-from-env@1.1.0/node_modules/proxy-from-env/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/proxy-from-env@1.1.0/node_modules/proxy-from-env/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/proxy-from-env@1.1.0/node_modules/proxy-from-env/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/proxy-from-env@1.1.0/node_modules/proxy-from-env/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/bin/rollup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/es/getLogFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/es/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/es/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/es/rollup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/es/shared/node-entry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/es/shared/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/es/shared/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/getLogFilter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/getLogFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/loadConfigFile.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/loadConfigFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/parseAst.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/rollup.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/rollup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/shared/fsevents-importer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/shared/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/shared/loadConfigFile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/shared/parseAst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/shared/rollup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/shared/watch-cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/dist/shared/watch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/rollup@4.20.0/node_modules/rollup/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/array-set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/base64-vlq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/binary-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/mapping-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/quick-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/source-map-consumer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/source-map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/source-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/source-map.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/source-map-js@1.2.0/node_modules/source-map-js/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/to-fast-properties@2.0.0/node_modules/to-fast-properties/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/to-fast-properties@2.0.0/node_modules/to-fast-properties/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/to-fast-properties@2.0.0/node_modules/to-fast-properties/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/to-fast-properties@2.0.0/node_modules/to-fast-properties/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/bin/openChrome.applescript" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/bin/vite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/client.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/client/client.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/client/env.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node-cjs/publicUtils.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/chunks/dep-C3NStZH1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/chunks/dep-D-7KCb9p.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/chunks/dep-DvdjAuZF.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/chunks/dep-IQS-Za7F.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/chunks/dep-NjL7WTE1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/runtime.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/dist/node/types.d-aGj9QkWt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/index.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/index.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/node_modules/.bin/esbuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/node_modules/.bin/esbuild.CMD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/node_modules/.bin/esbuild.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/node_modules/.bin/rollup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/node_modules/.bin/rollup.CMD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/node_modules/.bin/rollup.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/types/customEvent.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/types/hmrPayload.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/types/hot.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/types/import-meta.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/types/importGlob.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/types/importMeta.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/types/metadata.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vite@5.4.0/node_modules/vite/types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.cjs.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.esm-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.global.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.node.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/dist/vue-router.prod.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/vetur/attributes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/vetur/tags.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/vue-router-auto-routes.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue-router@4.4.3/node_modules/vue-router/vue-router-auto.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/compiler-sfc/index.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/compiler-sfc/index.browser.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/compiler-sfc/index.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/compiler-sfc/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/compiler-sfc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/compiler-sfc/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/compiler-sfc/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/compiler-sfc/register-ts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.cjs.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.esm-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.esm-browser.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.global.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.runtime.esm-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.runtime.esm-browser.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.runtime.esm-bundler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.runtime.global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/dist/vue.runtime.global.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/jsx-runtime/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/jsx-runtime/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/jsx-runtime/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/jsx-runtime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/jsx.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/server-renderer/index.d.mts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/server-renderer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/server-renderer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/server-renderer/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.store/vue@3.4.38/node_modules/vue/server-renderer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/axios.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/chunk-PZ5AY32C.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/chunk-PZ5AY32C.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/chunk-U54OJQOV.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/chunk-U54OJQOV.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/vue-router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/vue-router.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/node_modules/.vite/deps/vue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/src/components/Phonebook.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/DjangoVuePhonebook/phonebook-frontend/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/drfdemo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/drfdemo/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/drfdemo/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/drfdemo/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/drfdemo/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/drfdemo/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/drfdemo/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/drfdemo/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/grading_system/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/grading_system/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/grading_system/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/grading_system/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/grading_system/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/grading_system/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/basic/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/basic/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/basic/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/basic/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/basic/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/basic/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/basic/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/goods/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/goods/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/goods/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/goods/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/goods/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/goods/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/goods/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/order/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/order/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/order/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/order/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/order/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/order/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/order/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/users/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/users/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/users/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/users/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/users/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/users/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/apps/users/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/myshop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/myshop/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/myshop/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/myshop/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-back/myshop/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app1/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app1/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app1/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app1/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app1/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app1/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app1/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app2/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app2/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app2/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app2/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app2/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app2/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app2/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app2/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/templatetags/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/templatetags/myfilter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/templatetags/mytags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app3/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app4/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app4/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app4/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app4/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app4/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app4/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app4/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app4/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/migrations/0002_auto_20240522_1543.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app5/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app6/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app6/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app6/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app6/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app6/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app6/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app6/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app6/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/app6/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/media/uploads/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/myshop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/myshop/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/myshop/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/myshop/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/myshop/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/2/test_post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/2/test_render.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/2/url_reverse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/base_include.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/diy_filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/diy_tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/for_lable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/html_filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/show_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/show_info_tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/top.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/var.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/3/welcome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/5/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/5/upload_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/5/userinfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/5/userinfoform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/6/user_login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/myshop-test/templates/6/user_reg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_project/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;baizhi613&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/baizhi613/Python.git&quot;,
+    &quot;accountId&quot;: &quot;ff8671be-893c-4678-9319-cdf3bd606d13&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/python-study/test/ocr.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mKLrbjS42m7es6R5S2zmITJ5XL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.WebITRTeach.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ocr2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zhipu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/Python/python-study/test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\Python\python-study\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\Python\python-study\test" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="python" type="Python.DjangoServer" factoryName="Django server">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="129c038f-c257-4b0f-b80d-1968a8811d7f" name="更改" comment="" />
+      <created>1726820521783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726820521783</updated>
+      <workItem from="1726820522753" duration="1279000" />
+      <workItem from="1726825346278" duration="31000" />
+      <workItem from="1727085753749" duration="761000" />
+      <workItem from="1727089395835" duration="565000" />
+      <workItem from="1727089969774" duration="609000" />
+      <workItem from="1727091288682" duration="716000" />
+      <workItem from="1727175618195" duration="8681000" />
+      <workItem from="1727230054256" duration="6021000" />
+      <workItem from="1727240115952" duration="6985000" />
+      <workItem from="1727345223628" duration="1979000" />
+      <workItem from="1727410473302" duration="12475000" />
+      <workItem from="1727577140497" duration="5493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$ocr1.coverage" NAME="ocr1 覆盖结果" MODIFIED="1727427441113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/python$ocr2.coverage" NAME="ocr2 覆盖结果" MODIFIED="1727436009336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/python$WebITRTeach.coverage" NAME="WebITRTeach 覆盖结果" MODIFIED="1727346935908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/python$zhipu.coverage" NAME="zhipu 覆盖结果" MODIFIED="1727434105746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/python$ocr.coverage" NAME="ocr 覆盖结果" MODIFIED="1727431033862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+  </component>
+</project>

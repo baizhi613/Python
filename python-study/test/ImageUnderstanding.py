@@ -13,10 +13,10 @@ from wsgiref.handlers import format_date_time
 import websocket  # 使用websocket_client
 
 
-appid = "d071f0f9"    #填写控制台中获取的 APPID 信息
-api_secret = "YWI2YzQ3NmJlN2E2MGNhM2NiOTE0NmU4"   #填写控制台中获取的 APISecret 信息
-api_key ="7db87320083e1ecdaf39d3d137798266"    #填写控制台中获取的 APIKey 信息
-imagedata = open("/python-study/test/img_1.png", 'rb').read()
+appid = "xxxxx"    #填写控制台中获取的 APPID 信息
+api_secret = "xxxxx"   #填写控制台中获取的 APISecret 信息
+api_key ="xxxxx"    #填写控制台中获取的 APIKey 信息
+imagedata = open("img_1.png",'rb').read()
 
 
 
@@ -150,7 +150,9 @@ def main(appid, api_key, api_secret, imageunderstanding_url,question):
 
 
 def getText(role, content):
-    jsoncon = {"role": role, "content": content}
+    jsoncon = {}
+    jsoncon["role"] = role
+    jsoncon["content"] = content
     text.append(jsoncon)
     return text
 
@@ -166,14 +168,14 @@ def getlength(text):
 
 def checklen(text):
     #print("text-content-tokens:", getlength(text[1:]))
-    while getlength(text[1:])> 8000:
+    while (getlength(text[1:])> 8000):
         del text[1]
     return text
 
 if __name__ == '__main__':
 
-    #text.clear1
-    while 1:
+    #text.clear
+    while(1):
         Input = input("\n" +"问:")
         question = checklen(getText("user",Input))
         answer = ""
