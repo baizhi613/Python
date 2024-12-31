@@ -4,67 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="129c038f-c257-4b0f-b80d-1968a8811d7f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/fastApiProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastApiProject/.idea/fastApiProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastApiProject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastApiProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastApiProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastApiProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastApiProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastApiProject/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fastApiProject/test_main.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskProject/.idea/flaskProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskProject/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskProject/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flaskProject/templates/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/machine-learning/test04/qualitative+bankruptcy/Qualitative_Bankruptcy.data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/machine-learning/test04/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/machine-learning/test05/default+of+credit+card+clients/creditcardclients.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/machine-learning/test05/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/test/AGNES.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/test/C4.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/test/CART.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/test/ID3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/test/decisionTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/test/k-means.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/test/机器学习01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-study/test/机器学习02.py" afterDir="false" />
+    <list default="true" id="129c038f-c257-4b0f-b80d-1968a8811d7f" name="更改" comment="测试代码">
+      <change afterPath="$PROJECT_DIR$/python-study/test/DBSCAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/blibli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/iris1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/iris2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/iris2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/iris3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/iris4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/iris5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-study/test/k-means02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/QQ20240927-164320.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/numbers.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_10_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_11_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_12_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_13_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_14_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_15_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_16_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_17_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_18_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_2_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_3_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_4_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_5_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_6_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_7_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_8_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/questions/question_9_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/test1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/大题1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/大题2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/张三的答卷.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/第一题.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/第二题.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python-study/test/选择题.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-study/test/ID3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python-study/test/ID3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,19 +82,28 @@
     "Python.DBSCAN.executor": "Run",
     "Python.ID3.executor": "Run",
     "Python.WebITRTeach.executor": "Run",
+    "Python.blibli.executor": "Run",
     "Python.decisionTree.executor": "Run",
+    "Python.iris1.executor": "Run",
+    "Python.iris2.1.executor": "Run",
+    "Python.iris2.executor": "Run",
+    "Python.iris3.executor": "Run",
+    "Python.iris4.executor": "Run",
+    "Python.iris5.executor": "Run",
     "Python.k-means.executor": "Run",
+    "Python.k-means02.executor": "Run",
     "Python.ocr.executor": "Run",
     "Python.ocr1.executor": "Run",
     "Python.ocr2.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.tree.executor": "Run",
     "Python.zhipu.executor": "Run",
     "Python.机器学习01.executor": "Run",
     "Python.机器学习02.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/code/Python/python-study/machine-learning/test05/default+of+credit+card+clients",
+    "last_opened_file_path": "D:/code/Python",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -226,28 +186,55 @@
       <workItem from="1732178667948" duration="39000" />
       <workItem from="1732606314371" duration="5827000" />
       <workItem from="1733215423877" duration="143000" />
-      <workItem from="1733814340983" duration="1025000" />
+      <workItem from="1733814340983" duration="1136000" />
+      <workItem from="1733816904869" duration="3624000" />
+      <workItem from="1735013778844" duration="59000" />
+      <workItem from="1735013885811" duration="248000" />
+      <workItem from="1735442174066" duration="5692000" />
+      <workItem from="1735643248794" duration="1381000" />
     </task>
+    <task id="LOCAL-00001" summary="测试代码">
+      <option name="closed" value="true" />
+      <created>1733815451811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733815451811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试代码" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$ocr1.coverage" NAME="ocr1 覆盖结果" MODIFIED="1727427441113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
     <SUITE FILE_PATH="coverage/Python$AGNES.coverage" NAME="AGNES 覆盖结果" MODIFIED="1733814944470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
-    <SUITE FILE_PATH="coverage/Python$DBSCAN.coverage" NAME="DBSCAN 覆盖结果" MODIFIED="1733815003549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
     <SUITE FILE_PATH="coverage/python$C4_5.coverage" NAME="C4.5 覆盖结果" MODIFIED="1729585825031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
     <SUITE FILE_PATH="coverage/python$CART.coverage" NAME="CART 覆盖结果" MODIFIED="1729585816074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
-    <SUITE FILE_PATH="coverage/python$zhipu.coverage" NAME="zhipu 覆盖结果" MODIFIED="1727434105746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
     <SUITE FILE_PATH="coverage/python$ocr.coverage" NAME="ocr 覆盖结果" MODIFIED="1727431033862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$k_means02.coverage" NAME="k-means02 覆盖结果" MODIFIED="1733817506522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$iris3.coverage" NAME="iris3 覆盖结果" MODIFIED="1735451961750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/python$ocr2.coverage" NAME="ocr2 覆盖结果" MODIFIED="1727436009336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/python$WebITRTeach.coverage" NAME="WebITRTeach 覆盖结果" MODIFIED="1727346935908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$iris1.coverage" NAME="iris1 覆盖结果" MODIFIED="1735451818437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$iris4.coverage" NAME="iris4 覆盖结果" MODIFIED="1735452053433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/python$02.coverage" NAME="机器学习02 覆盖结果" MODIFIED="1728377043448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$DBSCAN.coverage" NAME="DBSCAN 覆盖结果" MODIFIED="1733818341749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/python$zhipu.coverage" NAME="zhipu 覆盖结果" MODIFIED="1727434105746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
     <SUITE FILE_PATH="coverage/python$decisionTree.coverage" NAME="decisionTree 覆盖结果" MODIFIED="1729585699863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
     <SUITE FILE_PATH="coverage/Python$test.coverage" NAME="test 覆盖结果" MODIFIED="1732610795464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/machine-learning/test05" />
     <SUITE FILE_PATH="coverage/Python$k_means.coverage" NAME="k-means 覆盖结果" MODIFIED="1733814821031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$blibli.coverage" NAME="blibli 覆盖结果" MODIFIED="1735643450834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$iris2.coverage" NAME="iris2 覆盖结果" MODIFIED="1735451890263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
     <SUITE FILE_PATH="coverage/python$ID3.coverage" NAME="ID3 覆盖结果" MODIFIED="1729585780945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
-    <SUITE FILE_PATH="coverage/python$ocr2.coverage" NAME="ocr2 覆盖结果" MODIFIED="1727436009336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
-    <SUITE FILE_PATH="coverage/python$WebITRTeach.coverage" NAME="WebITRTeach 覆盖结果" MODIFIED="1727346935908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
-    <SUITE FILE_PATH="coverage/python$02.coverage" NAME="机器学习02 覆盖结果" MODIFIED="1728377043448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$iris5.coverage" NAME="iris5 覆盖结果" MODIFIED="1735452090892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$iris2_1.coverage" NAME="iris2.1 覆盖结果" MODIFIED="1735442893166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
+    <SUITE FILE_PATH="coverage/Python$tree.coverage" NAME="tree 覆盖结果" MODIFIED="1735013992950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
     <SUITE FILE_PATH="coverage/python$01.coverage" NAME="机器学习01 覆盖结果" MODIFIED="1728377027776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-study/test" />
   </component>
 </project>
